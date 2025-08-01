@@ -49,9 +49,8 @@
 
 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahaj33-op&theme=tokyonight" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahaj33-op&theme=highcontrast)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sahaj33-op&theme=highcontrast" alt="GitHub Streak" /></a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahaj33-op&layout=compact&theme=tokyonight" />
 </p>
