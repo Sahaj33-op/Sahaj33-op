@@ -37,11 +37,11 @@
 ## 🧰 Tech Stack
 
 
-💻 Languages: Python, HTML, CSS, JS, Bash
-🧠 AI Tools: OpenAI API, Hugging Face, Transformers, OCR
-⚙️ Frameworks: Flask, FastAPI, Streamlit, CustomTkinter
-📦 Tools: Git, Termux, VS Code, Figma, Canva, Tauri, proot-distro
-🚀 Others: Ngrok, yt-dlp, Tampermonkey, ffmpeg, Kivy, Buildozer
+- 💻 Languages: Python, HTML, CSS, JS, Bash
+- 🧠 AI Tools: OpenAI API, Hugging Face, Transformers, OCR
+- ⚙️ Frameworks: Flask, FastAPI, Streamlit, CustomTkinter
+- 📦 Tools: Git, Termux, VS Code, Figma, Canva, Tauri, proot-distro
+- 🚀 Others: Ngrok, yt-dlp, Tampermonkey, ffmpeg, Kivy, Buildozer
 
 
 ---
