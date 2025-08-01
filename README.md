@@ -50,7 +50,7 @@
 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sahaj33-op&theme=tokyonight" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahaj33-op&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahaj33-op&layout=compact&theme=tokyonight" />
