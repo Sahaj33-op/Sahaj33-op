@@ -36,7 +36,7 @@
 
 ## 🧰 Tech Stack
 
-```bash
+
 💻 Languages: Python, HTML, CSS, JS, Bash
 🧠 AI Tools: OpenAI API, Hugging Face, Transformers, OCR
 ⚙️ Frameworks: Flask, FastAPI, Streamlit, CustomTkinter
@@ -71,4 +71,3 @@
 <p align="center">
   <b>"Code like a hacker, think like a founder, learn like a child."</b>
 </p>
-```
