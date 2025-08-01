@@ -61,10 +61,10 @@
 
 
 📣 Let’s Connect
-	•	💼 Portfolio Site: Coming Soon
-	•	📺 YouTube: SIz_EDITs (@Sahaj33)
-	•	🧠 Telegram Projects: Ask me!
-	•	📬 Email: sahajitaliya33@gmail.com
+	-       💼 Portfolio Site: Coming Soon
+        -       📺 YouTube: SIz_EDITs (@Sahaj33)
+	-       🧠 Telegram Projects: Ask me!
+	-       📬 Email: sahajitaliya33@gmail.com
 
 ---
 
