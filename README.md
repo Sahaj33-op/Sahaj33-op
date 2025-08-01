@@ -44,7 +44,8 @@
 🚀 Others: Ngrok, yt-dlp, Tampermonkey, ffmpeg, Kivy, Buildozer
 
 
-⸻
+---
+
 
 📊 GitHub Stats
 
@@ -56,8 +57,8 @@
 </p>
 
 
+---
 
-⸻
 
 📣 Let’s Connect
 	•	💼 Portfolio Site: Coming Soon
@@ -65,7 +66,7 @@
 	•	🧠 Telegram Projects: Ask me!
 	•	📬 Email: sahajitaliya33@gmail.com
 
-⸻
+---
 
 
 <p align="center">
