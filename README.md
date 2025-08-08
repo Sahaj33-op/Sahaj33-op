@@ -50,7 +50,7 @@
 📊 GitHub Stats
 
 <p align="center">
-![Sahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahaj33-op&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=sahaj33-op&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
