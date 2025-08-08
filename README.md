@@ -49,7 +49,9 @@
 
 📊 GitHub Stats
 
+<p align="center">
 ![Sahaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahaj33-op&show_icons=true&theme=radical)
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahaj33-op&layout=compact&theme=tokyonight" />
