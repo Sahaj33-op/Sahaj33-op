@@ -62,7 +62,7 @@
 
 
 📣 Let’s Connect
-- 💼 Portfolio Site: https://sahaj-portfolio-gamma.vercel.app/
+- 💼 Portfolio Site: https://sahaj33.vercel.app/
 - 📺 YouTube: SIz_EDITs (@Sahaj33)
 - 🧠 Telegram Projects: Ask me!
 - 📬 Email: sahajitaliya33@gmail.com
