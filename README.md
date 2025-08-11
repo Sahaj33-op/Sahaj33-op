@@ -11,7 +11,7 @@
 ## 💡 About Me
 
 - 🎓 First-year Computer Engineering Student @ SSASIT  
-- 💻 I build full-stack AI projects using **Python**, **Flask**, **FastAPI**, **Streamlit**, and **custom UIs**
+- 💻 I build full-stack AI projects using **Python**, **FastAPI**, **Streamlit**, and **custom UIs**
 - 📱 Creator of **StudySage**, **SkillWise**, and a full **Minecraft Server Manager** for Termux & Desktop  
 - 🧠 Self-taught in AI, automation, app development & APIs
 - 🛠️ I also like building from scratch, "vibe coding", and solving real-world problems creatively
@@ -39,7 +39,7 @@
 
 - 💻 Languages: Python, HTML, CSS, JS, Bash
 - 🧠 AI Tools: OpenAI API, Hugging Face, Transformers, OCR
-- ⚙️ Frameworks: Flask, FastAPI, Streamlit, CustomTkinter
+- ⚙️ Frameworks: FastAPI, Streamlit, CustomTkinter
 - 📦 Tools: Git, Termux, VS Code, Figma, Canva, Tauri, proot-distro
 - 🚀 Others: Ngrok, yt-dlp, Tampermonkey, ffmpeg, Kivy, Buildozer
 
@@ -62,7 +62,7 @@
 
 
 📣 Let’s Connect
-- 💼 Portfolio Site: Coming Soon
+- 💼 Portfolio Site: https://sahaj-portfolio-gamma.vercel.app/
 - 📺 YouTube: SIz_EDITs (@Sahaj33)
 - 🧠 Telegram Projects: Ask me!
 - 📬 Email: sahajitaliya33@gmail.com
