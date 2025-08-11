@@ -26,11 +26,11 @@
 🗺️ **SkillWise**  
 > AI-Powered Learning Path Generator. Upload your resume → get a complete roadmap to master any tech field.
 
-🎮 **Minecraft Server Manager**  
-> Full-featured local Minecraft server manager (Java + Bedrock), built for Termux/Android and Desktop. Mod/plugin support, ngrok tunneling, and performance monitoring.
+🔌 **Video Downloader CLI & GUI**  
+> Built with yt-dlp, featuring 1000+ platforms support, fast downloads, quality selection, and a lightweight Python GUI.
 
-🔌 **YouTube Downloader CLI & GUI**  
-> Built with yt-dlp, featuring fast downloads, quality selection, and a lightweight Python GUI.
+🎮 **Minecraft Server Manager (In progress!)**  
+> Full-featured local Minecraft server manager (Java + Bedrock), built for Termux/Android and Desktop. Mod/plugin support, ngrok tunneling, and performance monitoring.
 
 ---
 
