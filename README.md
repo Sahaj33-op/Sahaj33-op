@@ -23,12 +23,12 @@
 ## 🧠 Featured Projects
 
 ### 🧩 [SkyBlock Profile Extractor](https://github.com/Sahaj33-op/Hypixel-SkyBlock-Profile-Extractor)
-> 🚀 Extract complete **Hypixel SkyBlock** profile data — stats, skills, items, and progression — directly from the SkyCrypt API. Exports clean JSON for AI analysis or offline tracking.
+> 🚀 Extract complete **Hypixel SkyBlock** profile data like stats, skills, items, and progression directly from the SkyCrypt API. Exports clean JSON for AI analysis or offline tracking.
 
 ---
 
 ### 🧠 [StudySage – Offline/Online AI Note Assistant](https://github.com/Sahaj33-op/StudySage-Offline-Online-AI-Note-Assistant)
-> 🧾 AI-powered note assistant that works **offline and online** — summarizes PDFs, extracts handwritten text (OCR), generates quizzes, and exports content to PDF with a sleek desktop UI.
+> 🧾 AI-powered note assistant that works **offline and online** —> summarizes PDFs, extracts handwritten text (OCR), generates quizzes, and exports content to PDF with a sleek desktop UI.
 
 ---
 
@@ -53,12 +53,7 @@
 ---
 
 ### 💼 [Sahaj Portfolio](https://github.com/Sahaj33-op/sahaj-portfolio)
-> 🌐 My personal **portfolio website** built with Vite + React — featuring projects, contact links, and a minimalist modern design.
-
----
-
-### 🧪 [Sahaj33-op](https://github.com/Sahaj33-op/Sahaj33-op)
-> 🧰 This repository powers my GitHub profile README (the page you’re reading right now).
+> 🌐 My personal **portfolio website** built with Vite + React, featuring projects, contact links, and a minimalist modern design.
 
 ---
 
