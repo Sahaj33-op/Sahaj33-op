@@ -22,7 +22,7 @@
 
 ## 🧠 Featured Projects
 
-### 🧩 [SkyBlock Profile Extractor](https://github.com/Sahaj33-op/SkyBlock-Profile-Extractor)
+### 🧩 [SkyBlock Profile Extractor](https://github.com/Sahaj33-op/Hypixel-SkyBlock-Profile-Extractor)
 > 🚀 Extract complete **Hypixel SkyBlock** profile data — stats, skills, items, and progression — directly from the SkyCrypt API. Exports clean JSON for AI analysis or offline tracking.
 
 ---
