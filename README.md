@@ -94,3 +94,5 @@
 <p align="center">
   <b>“Code like a hacker, think like a founder, learn like a child.”</b>
 </p>
+
+[![Sahaj33 profile views](https://u8views.com/api/v1/github/profiles/211491959/views/day-week-month-total-count.svg)](https://u8views.com/github/Sahaj33-op)
