@@ -76,6 +76,10 @@
 </p>
 
 <p align="center">
+  <img src="https://sahaj33-readme-streak-stats.vercel.app/?user=sahaj33-op&theme=dark&hide_border=false" />
+</p>
+  
+<p align="center">
   <img src="https://readme-stats-seven-rust.vercel.app/api/top-langs/?username=Sahaj33-op&layout=compact&theme=tokyonight" />
 </p>
 
