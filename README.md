@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Sahaj 👋</h1>
 
 <p align="center">
-  🚀 Teen Developer & Innovator • 💻 AI Explorer • 🎮 Gamer • 🧠 Lifelong Learner  
+   Teen Developer & Innovator •  AI Explorer •  Gamer •  Lifelong Learner  
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 ## 💡 About Me
 
 - 🎓 First-year **Computer Engineering Student @ SSASIT**
-- 💻 Building full-stack AI tools with **Python**, **FastAPI**, **Streamlit**, and **custom UIs**
-- 📱 Creator of **StudySage**, **SkillWise**, and **Minecraft Server Manager** (Termux + Desktop)
+- 💻 Building full-stack AI tools
+- 📱 Creator of **StudySage**, **SkillWise**, and **Minecraft Server Manager** (Termux)
 - 🧠 Self-taught in AI, automation, app development & APIs
-- 🛠️ Love “vibe coding,” building from scratch, and solving real-world problems creatively
+- 🛠️ Love building from scratch and solving real-world problems creatively
 
 ---
 
