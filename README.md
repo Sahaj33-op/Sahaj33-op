@@ -20,52 +20,15 @@
 
 ---
 
-## 🧠 Featured Projects
-
-### 🧩 [SkyBlock Profile Extractor](https://github.com/Sahaj33-op/Hypixel-SkyBlock-Profile-Extractor)
-> 🚀 Extract complete **Hypixel SkyBlock** profile data like stats, skills, items, and progression directly from the SkyCrypt API. Exports clean JSON for AI analysis or offline tracking.
-
----
-
-### 🧠 [StudySage – Offline/Online AI Note Assistant](https://github.com/Sahaj33-op/StudySage-Offline-Online-AI-Note-Assistant)
-> 🧾 AI-powered note assistant that works **offline and online** —> summarizes PDFs, extracts handwritten text (OCR), generates quizzes, and exports content to PDF with a sleek desktop UI.
-
----
-
-### 🗺️ [SkillWise – AI Learning Path Generator](https://github.com/Sahaj33-op/SkillWise)
-> 🎯 Upload your resume → instantly get a **personalized 6-month learning roadmap** with curated courses, project ideas, and recommended tools to master your chosen tech domain.
-
----
-
-### 🔌 [Streamlit YT-DLP Downloader](https://github.com/Sahaj33-op/Streamlit-ytdlp-downloader-app)
-> 🎥 Powerful Streamlit-based **video downloader** supporting 1000+ platforms. Features include quality/format selection, subtitle & thumbnail embedding, and a responsive UI.
-
----
-
-### 🎮 [Minecraft Server Manager (Termux)](https://github.com/Sahaj33-op/MSM-minecraft-server-manager-termux)
-> 🧱 Host and manage **Minecraft Java & Bedrock servers** on Android using Termux. Supports auto-setup, mods/plugins, ngrok tunneling, crash recovery, and system monitoring.
-
----
-
-### 🧭 [Vidya-Vaani V0](https://github.com/Sahaj33-op/Vidya-vaani-V0)
-> 🌐 A multilingual AI education chatbot supporting English, Hindi, Marathi, and Marwari. Features RAG-based document retrieval, intent recognition, context-aware conversations, real-time translation, and human handoff. Built for colleges and universities with modular, scalable architecture using Next.js, FastAPI, Rasa, and Supabase.
-
----
-
-### 💼 [Sahaj Portfolio](https://github.com/Sahaj33-op/sahaj-portfolio)
-> 🌐 My personal **portfolio website** built with Vite + React, featuring projects, contact links, and a minimalist modern design.
-
----
-
 ## 🧰 Tech Stack
 
 | Category | Tools |
-|-----------|-------|
-| 💻 Languages | Python, HTML, CSS, JavaScript, Bash |
-| ⚙️ Frameworks | FastAPI, Streamlit, CustomTkinter |
-| 🧠 AI / ML | OpenAI API, Hugging Face, Transformers, OCR |
-| 🧩 Tools & Platforms | Git, Termux, VS Code, Figma, Canva, Tauri, proot-distro |
-| 🚀 Utilities | Ngrok, yt-dlp, ffmpeg, Tampermonkey, Kivy, Buildozer |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) ![Kivy](https://img.shields.io/badge/Kivy-eeeeee?style=flat-square&logo=kivy&logoColor=black) |
+| **AI / ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square) ![PyTorch](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=pytorch&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white) |
+| **Utilities** | ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E1E?style=flat-square&logo=ngrok&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=flat-square&logo=tampermonkey&logoColor=white) |
 
 ---
 
@@ -73,13 +36,7 @@
 
 <p align="center">
   <img src="https://readme-stats-seven-rust.vercel.app/api?username=sahaj33-op&theme=transparent&show_icons=true" />
-</p>
-
-<p align="center">
   <img src="https://sahaj33-readme-streak-stats.vercel.app/?user=sahaj33-op&theme=transparent&hide_border=false" />
-</p>
-  
-<p align="center">
   <img src="https://readme-stats-seven-rust.vercel.app/api/top-langs/?username=Sahaj33-op&layout=compact&theme=transparent" />
 </p>
 
@@ -87,16 +44,27 @@
 
 ## 📣 Let’s Connect
 
-- 🌐 **Portfolio:** [sahaj33.vercel.app](https://sahaj33.vercel.app)
-- 📺 **YouTube:** [SIz_EDITs (@Sahaj33)](https://youtube.com/@Sahaj33)
-- 💬 **Telegram Projects:** Ask me!
-- 📧 **Email:** [sahajitaliya33@gmail.com](mailto:sahajitaliya33@gmail.com)
 - 🔗 **Linktree:** [linktr.ee/sahaj33](https://linktr.ee/sahaj33)
+- 🌐 **Portfolio:** [sahaj33.vercel.app](https://sahaj33.vercel.app)
+- 📧 **Email:** [sahajitaliya33@gmail.com](mailto:sahajitaliya33@gmail.com)
 
 ---
 
 <p align="center">
-  <b>“Code like a hacker, think like a founder, learn like a child.”</b>
+<a href="https://www.linktr.ee/sahaj33" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/775329619259162654.png"/>
 </p>
 
-[![Sahaj33 profile views](https://u8views.com/api/v1/github/profiles/211491959/views/day-week-month-total-count.svg)](https://u8views.com/github/Sahaj33-op)
+  
+<p align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?quote=I+think+it's+very+important+to+have+a+feedback+loop,+where+you're+constantly+thinking+about+what+you've+done+and+how+you+could+be+doing+it+better.&author=Elon+Musk&theme=dark&type=vertical" />
+
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Are+you+doing+things+right+now+that+will+make+your+8+year+old+and+80+year+old+self+proud?&author=Varun+Mayya&theme=dark&type=vertical" />
+
+</p>
+
+<p align="center">
+  <a href="https://u8views.com/github/Sahaj33-op">
+    <img src="https://u8views.com/api/v1/github/profiles/211491959/views/day-week-month-total-count.svg" alt="Sahaj33 profile views" />
+  </a>
+</p>
