@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <a href="https://u8views.com/github/Sahaj33-op">
+  <a href="https://github.com/Sahaj33-op">
     <img src="https://u8views.com/api/v1/github/profiles/211491959/views/day-week-month-total-count.svg" alt="Sahaj33 profile views" />
   </a>
 </p>
