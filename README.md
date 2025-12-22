@@ -70,6 +70,8 @@
   
   <img src="https://quotes-github-readme.vercel.app/api?quote=Give+people+wonderful+tools+%0A+and+they'll+do+wonderful+things.&author=Apple&theme=dark&type=vertical" />
   
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Ever+tried%3F+Ever+failed%3F+No+matter.+Try+again.+Fail+again.+Fail+better.+The+world+is+yours.+Treat+everyone+kindly.&author=Peter+Dinklage&theme=dark&type=vertical" />
+
 </p>
 
 <p align="center">
