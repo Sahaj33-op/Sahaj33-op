@@ -64,11 +64,11 @@
   
 <p align="center">
   
-  <a href="https://github.com/sahaj33-op"><img src="https://quotes-github-readme.vercel.app/api?quote=I+think+it's+very+important+to+have+a+feedback+loop,+where+you're+constantly+thinking+about+what+you've+done+and+how+you+could+be+doing+it+better.&author=Elon+Musk&theme=dark&type=vertical" /></a>
+  <img src="https://quotes-github-readme.vercel.app/api?quote=I+think+it's+very+important+to+have+a+feedback+loop,+where+you're+constantly+thinking+about+what+you've+done+and+how+you+could+be+doing+it+better.&author=Elon+Musk&theme=dark&type=vertical" />
 
-  <a href="https://github.com/sahaj33-op"><img src="https://quotes-github-readme.vercel.app/api?quote=Are+you+doing+things+right+now+that+will+make+your+8+year+old+and+80+year+old+self+proud?&author=Varun+Mayya&theme=dark&type=vertical" /></a>
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Are+you+doing+things+right+now+that+will+make+your+8+year+old+and+80+year+old+self+proud?&author=Varun+Mayya&theme=dark&type=vertical" />
   
-  <a href="https://github.com/sahaj33-op"><img src="https://quotes-github-readme.vercel.app/api?quote=Give+people+wonderful+tools+%0A+and+they'll+do+wonderful+things.&author=Apple&theme=dark&type=vertical" /></a>
+  <img src="https://quotes-github-readme.vercel.app/api?quote=Give+people+wonderful+tools+%0A+and+they'll+do+wonderful+things.&author=Apple&theme=dark&type=vertical" />
   
 </p>
 
