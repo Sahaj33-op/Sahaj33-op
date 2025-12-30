@@ -10,17 +10,17 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
-- 🎓 First-year **Computer Engineering Student @ SSASIT**
-- 💻 Building full-stack AI tools
-- 📱 Creator of **StudySage**, **SkillWise**, and **Minecraft Server Manager** (Termux)
-- 🧠 Self-taught in AI, automation, app development & APIs
-- 🛠️ Love building from scratch and solving real-world problems creatively
+- First-year **Computer Engineering Student @ SSASIT**
+- Building full-stack AI tools
+- Creator of **StudySage**, **SkillWise**, and **Minecraft Server Manager** (Termux)
+- Self-taught in AI, automation, app development & APIs
+- Love building from scratch and solving real-world problems creatively
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Category                 | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/sahaj33-op"><img src="https://readme-stats-seven-rust.vercel.app/api?username=sahaj33-op&theme=transparent&show_icons=true" /></a>
@@ -49,11 +49,11 @@
 
 ---
 
-## 📣 Let’s Connect
+## Let’s Connect
 
-- 🔗 **Linktree:** [linktr.ee/sahaj33](https://linktr.ee/sahaj33)
-- 🌐 **Portfolio:** [sahaj33.vercel.app](https://sahaj33.vercel.app)
-- 📧 **Email:** [sahajitaliya33@gmail.com](mailto:sahajitaliya33@gmail.com)
+-  **Linktree:** [linktr.ee/sahaj33](https://linktr.ee/sahaj33)
+-  **Portfolio:** [sahaj33.vercel.app](https://sahaj33.vercel.app)
+-  **Email:** [sahajitaliya33@gmail.com](mailto:sahajitaliya33@gmail.com)
 
 ---
 
