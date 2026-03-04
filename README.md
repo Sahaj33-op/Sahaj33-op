@@ -51,9 +51,8 @@
 
 ## Let’s Connect
 
--  **Linktree:** [linktr.ee/sahaj33](https://linktr.ee/sahaj33)
 -  **Portfolio:** [sahaj33.vercel.app](https://sahaj33.vercel.app)
--  **Email:** [sahajitaliya33@gmail.com](mailto:sahajitaliya33@gmail.com)
+
 
 ---
 
