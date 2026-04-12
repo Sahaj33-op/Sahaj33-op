@@ -69,7 +69,10 @@ fun_fact: "I built a Minecraft server manager that runs on Android via Termux ğŸ
   <tr>
     <td align="center"><b>AI / ML</b></td>
     <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
+      <img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=antigravity&logoColor=white" />
+      <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />
       <img src="https://img.shields.io/badge/ğŸ¤—%20Hugging%20Face-FFD21E?style=flat-square" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -102,6 +105,7 @@ fun_fact: "I built a Minecraft server manager that runs on Android via Termux ğŸ
     <td align="center"><b>Utilities</b></td>
     <td>
       <img src="https://img.shields.io/badge/Ngrok-1F1E1E?style=flat-square&logo=ngrok&logoColor=white" />
+      <img src="https://img.shields.io/badge/playit.gg-E34F26?style=flat-square&logo=playitgg&logoColor=white" />
       <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
       <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" />
       <img src="https://img.shields.io/badge/Tampermonkey-00485B?style=flat-square&logo=tampermonkey&logoColor=white" />
