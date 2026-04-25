@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there,%20I'm%20Sahaj%20.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Teen%20Developer%20%7C%20AI%20Explorer%20%7C%20Builder&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Turning+Ideas+Into+Code;Building+AI-Powered+Tools;First-Year+CS+Student+%40+SSASIT;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Turning+Ideas+Into+Code;Building+AI-Powered+Tools;CS+Student+%40+SSASIT;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 name: Sahaj Italiya
 alias: Sahaj33
 role: Teen Developer & AI Builder
-education: Computer Engineering @ SSASIT (First Year)
+education: Computer Engineering @ SSASIT
 focus: ["Full-Stack AI Tools", "Automation", "Open Source"]
 
 building:
