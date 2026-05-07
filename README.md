@@ -39,7 +39,7 @@ fun_fact: "I built a Minecraft server manager that runs on Android via Termux ğŸ
 ---
 ---
 
-## Tech Stack
+## Tech Stack Ever Used
 
 <table>
   <tr>
