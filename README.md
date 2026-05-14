@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there,%20I'm%20Sahaj%20.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Teen%20Developer%20%7C%20AI%20Explorer%20%7C%20Builder&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there,%20I'm%20Sahaj%20.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=~∞&descAlignY=55&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Turning+Ideas+Into+Code;Building+AI-Powered+Tools;CS+Student+%40+SSASIT;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -114,116 +114,7 @@ fun_fact: "I built a Minecraft server manager that runs on Android via Termux �
 </table>
 
 ---
----
 
-## Some of the Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⛏️ MSM - Minecraft Server Manager</h3>
-      <p align="center">
-        <a href="https://github.com/Sahaj33-op/MSM-minecraft-server-manager-termux">
-          <img src="https://readme-stats-seven-rust.vercel.app/api/pin/?username=Sahaj33-op&repo=MSM-minecraft-server-manager-termux&theme=transparent&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">
-        Mobile-first Minecraft Server Manager for Termux. Supports Paper, Purpur, Folia, Fabric, Quilt, Vanilla & PocketMine with auto-setup, monitoring & crash protection.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Sahaj33-op/MSM-minecraft-server-manager-termux?style=flat-square&color=gold" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Termux-000?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 StudySage</h3>
-      <p align="center">
-        <a href="https://github.com/Sahaj33-op/StudySage-Offline-Online-AI-Note-Assistant">
-          <img src="https://readme-stats-seven-rust.vercel.app/api/pin/?username=Sahaj33-op&repo=StudySage-Offline-Online-AI-Note-Assistant&theme=transparent&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">
-        Offline AI-powered note assistant. Summarizes notes, generates quizzes, extracts handwritten text via OCR, and exports to PDF — all from a sleek terminal or desktop GUI.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Sahaj33-op/StudySage-Offline-Online-AI-Note-Assistant?style=flat-square&color=gold" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Offline-green?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎯 SkillWise</h3>
-      <p align="center">
-        <a href="https://github.com/Sahaj33-op/SkillWise">
-          <img src="https://readme-stats-seven-rust.vercel.app/api/pin/?username=Sahaj33-op&repo=SkillWise&theme=transparent&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">
-        AI-powered learning path generator. Drop in your resume → get a personalized 6-month roadmap with curated courses, project ideas & tech stack recommendations.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Sahaj33-op/SkillWise?style=flat-square&color=gold" />
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📡 ServerPulse</h3>
-      <p align="center">
-        <a href="https://github.com/Sahaj33-op/ServerPulse">
-          <img src="https://readme-stats-seven-rust.vercel.app/api/pin/?username=Sahaj33-op&repo=ServerPulse&theme=transparent&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">
-        Open-source Discord Analytics Bot with real-time insights & AI-powered summaries delivered directly in Discord. Know your community like never before.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Sahaj33-op/ServerPulse?style=flat-square&color=gold" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📝 ReleaseWave</h3>
-      <p align="center">
-        <a href="https://github.com/Sahaj33-op/releasewave">
-          <img src="https://readme-stats-seven-rust.vercel.app/api/pin/?username=Sahaj33-op&repo=releasewave&theme=transparent&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">
-        AI-powered changelog generator that actually works. Reads real code diffs, handles messy commits, and generates 3 audience-targeted changelogs in one command.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Sahaj33-op/releasewave?style=flat-square&color=gold" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-powered-412991?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏫 Vidya Vaani</h3>
-      <p align="center">
-        <a href="https://github.com/Sahaj33-op/Vidya-vaani-V0">
-          <img src="https://readme-stats-seven-rust.vercel.app/api/pin/?username=Sahaj33-op&repo=Vidya-vaani-V0&theme=transparent&hide_border=true" />
-        </a>
-      </p>
-      <p align="center">
-        Intelligent, multilingual AI chatbot platform for colleges & universities with advanced RAG capabilities, production-grade monitoring & enterprise security.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Sahaj33-op/Vidya-vaani-V0?style=flat-square&color=gold" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
 
 <p align="center">
   <a href="https://github.com/Sahaj33-op?tab=repositories">
@@ -231,7 +122,6 @@ fun_fact: "I built a Minecraft server manager that runs on Android via Termux �
   </a>
 </p>
 
----
 ---
 
 <div align="center">
