@@ -168,7 +168,7 @@ fun_fact: "I built a Minecraft server manager that runs on Android via Termux ğŸ
 <br /><br />
 
 <a href="https://www.linktr.ee/sahaj33" target="_blank">
-  <img src="https://discord.c99.nl/widget/theme-4/775329619259162654.png" />
+  <img src="https://discord.c99.nl/widget/theme-3/775329619259162654.png" />
 </a>
 
 </div>
