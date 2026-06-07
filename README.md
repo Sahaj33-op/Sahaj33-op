@@ -206,12 +206,14 @@ fun_fact: "I built Minecraft server managers for both Android Termux and Windows
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?quote=I+think+it's+very+important+to+have+a+feedback+loop,+where+you're+constantly+thinking+about+what+you've+done+and+how+you+could+be+doing+it+better.&border=true&theme=github&author=Elon+Musk&type=horizontal" />
-<br>
+
 <img src="https://quotes-github-readme.vercel.app/api?quote=Are+you+doing+things+right+now+that+will+make+your+8+year+old+and+80+year+old+self+proud?&author=Varun+Mayya&border=true&theme=github&type=horizontal" />
-<br>
+
 <img src="https://quotes-github-readme.vercel.app/api?quote=Give+people+wonderful+tools+and+they'll+do+wonderful+things.&border=true&theme=github&author=Apple&type=horizontal" />
-<img src="https://quotes-github-readme.vercel.app/api?quote=Ever+tried%3F+Ever+failed%3F+No+matter.+Try+again.+Fail+again.+Fail+better.&author=Samuel+Beckett&border=true&theme=github&type=horizontal" />
+
+<img src="https://quotes-github-readme.vercel.app/api?quote=Ever+tried%3F+Ever+failed%3F+No+matter.+Try+again.+Fail+again.+Fail+better.&author=Samuel+Beckett&border=true&theme=github&type=vertical" />
+
+<img src="https://quotes-github-readme.vercel.app/api?quote=I+think+it's+very+important+to+have+a+feedback+loop,+where+you're+constantly+thinking+about+what+you've+done+and+how+you+could+be+doing+it+better.&border=true&author=Elon+Musk&theme=github&type=vertical" />
 
 </div>
 
