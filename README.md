@@ -194,7 +194,7 @@ fun_fact: "I built Minecraft server managers for both Android Termux and Windows
 
 <br /><br />
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/775329619259162654)](https://discord.com/users/775329619259162654)
+[![Discord Presence](https://discord-rp-for-github.vercel.app/api/775329619259162654)](https://discord.com/users/775329619259162654)
 
 </div>
 
