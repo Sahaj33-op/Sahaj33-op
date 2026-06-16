@@ -20,7 +20,7 @@
 
 ```yaml
 name: Sahaj Italiya
-alias: Sahaj33
+alias: SizWinz
 location: India
 role: Computer Engineering Student & Product Builder
 education: Computer Engineering @ SSASIT
