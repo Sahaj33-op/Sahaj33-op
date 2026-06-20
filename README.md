@@ -153,13 +153,22 @@ fun_fact: "I built Minecraft server managers for both Android Termux and Windows
 
 <div align="center">
 
-<img src="https://readme-stats-seven-rust.vercel.app/api?username=Sahaj33-op&theme=transparent&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
-<img src="https://readme-stats-seven-rust.vercel.app/api/top-langs/?username=Sahaj33-op&layout=compact&theme=transparent&hide_border=true" width="49%" />
+<table>
+<tr>
+<td align="center">
+<img src="https://readme-stats-seven-rust.vercel.app/api?username=Sahaj33-op&theme=transparent&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" />
+</td>
+<td align="center">
+<img src="https://readme-stats-seven-rust.vercel.app/api/top-langs/?username=Sahaj33-op&layout=compact&theme=transparent&hide_border=true" width="100%" />
+</td>
+</tr>
+</table>
 
-</div>
-
-<div align="center">
-  <img src="https://sahaj33-readme-streak-stats.vercel.app/?user=Sahaj33-op&theme=transparent&hide_border=true" width="60%" />
+<table>
+<td align="center">
+<img src="https://sahaj33-readme-streak-stats.vercel.app/?user=Sahaj33-op&theme=transparent&hide_border=true" width="100%" />
+</td>
+</table>
 </div>
 
 ---
